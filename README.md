@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Ali Raza
+### <div align="center"><h1>I’m Ali Raza, a Full Stack & Blockchain Innovator.</h1>
 
-<div align="center" margin-y='10px'>
+<h3 align="center" margin-y='10px'>
 A <strong>Software Architect | Programming Strategist | Computational Physics Explorer</strong>.
-</div>
+</h3>
 
 I craft **digital solutions that leave an impact**. Code is my blueprint, logic is my architecture, and problem-solving is my art. 🎯
 
