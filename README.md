@@ -47,24 +47,25 @@ Ethereum ⛓️ | Solidity 💎 | ERC20/ERC721 Tokens 🪙 | Custom Blockchain P
 ---
 
 ### ⚡ Skill Proficiency (Visual Bars)
+
 **Frontend:**  
-![HTML](https://progress-bar.dev/90/?title=HTML)  
-![CSS](https://progress-bar.dev/85/?title=CSS)  
-![React.js](https://progress-bar.dev/90/?title=React)  
-![Next.js](https://progress-bar.dev/75/?title=Next)  
+![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)  
+![CSS](https://img.shields.io/badge/CSS-85%25-blue)  
+![React](https://img.shields.io/badge/React-90%25-61dafb)  
+![Next.js](https://img.shields.io/badge/Next.js-75%25-black)  
 
 **Backend:**  
-![Node.js](https://progress-bar.dev/90/?title=Node.js)  
-![Express](https://progress-bar.dev/85/?title=Express)  
-![MongoDB](https://progress-bar.dev/80/?title=MongoDB)  
-![Solidity](https://progress-bar.dev/70/?title=Solidity)  
+![Node.js](https://img.shields.io/badge/Node.js-90%25-green)  
+![Express](https://img.shields.io/badge/Express-85%25-lightgrey)  
+![MongoDB](https://img.shields.io/badge/MongoDB-80%25-brightgreen)  
+![Solidity](https://img.shields.io/badge/Solidity-70%25-orange)  
 
 **DevOps & Tools:**  
-![Docker](https://progress-bar.dev/75/?title=Docker)  
-![AWS](https://progress-bar.dev/70/?title=AWS)  
-![Git](https://progress-bar.dev/85/?title=Git)  
+![Docker](https://img.shields.io/badge/Docker-75%25-blue)  
+![AWS](https://img.shields.io/badge/AWS-70%25-yellow)  
+![Git](https://img.shields.io/badge/Git-85%25-red)  
 
-> Each bar shows my **hands-on expertise level** in that skill. 🚀
+> Each badge shows my **hands-on expertise level** in that skill. 🚀
 
 ---
 
