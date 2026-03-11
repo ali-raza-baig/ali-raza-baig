@@ -41,11 +41,6 @@ Ethereum ⛓️ | Solidity 💎 | ERC20/ERC721 Tokens 🪙 | Custom Blockchain P
 
 ---
 
-### 🏆 LeetCode Achievements
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ali-raza-baig&theme=dark&hide_border=true)
-
----
-
 ### ⚡ Skill Proficiency (Visual Bars)
 
 **Frontend:**  
